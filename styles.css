@@ -3,8 +3,6 @@
 .item{
 	height:32rem;
 	background:#777;
-}
-.item > h1{
 	text-align:center;
-	padding: 150px;
+	padding:100px;
 }
