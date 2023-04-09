@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+.carousel-item{
+	height:32rem;
+	background:#777;
+}
+.first-slide{
+	text-align:center;
+	color: #5A5A5A.;
+	padding: 150px;
+}
